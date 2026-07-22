@@ -36,5 +36,9 @@ public class EncapsulationExample {
         String s = s1.getFullName();
         System.out.println(s);
 
+        Student s2 = new Student(2, "");
+        s2.setName("Allu");
+        System.out.println(s2.getName());
+
     }
 }
