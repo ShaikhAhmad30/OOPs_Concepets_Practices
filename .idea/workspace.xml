@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7cbd5ef-9575-49f3-996f-e419315a34b8" name="Changes" comment="implemented example of interface as payment methods">
+    <list default="true" id="f7cbd5ef-9575-49f3-996f-e419315a34b8" name="Changes" comment="l">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/HierarchicalInheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/MultilevelInheritanceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/SingleInheritanceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -39,15 +43,21 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Gox4ZYn85xl10RyePuX6o86tpR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractClassExample.executor": "Run",
     "Application.AbstractionExample.executor": "Run",
     "Application.EncapsulationExample.executor": "Run",
     "Application.InterfaceExample.executor": "Run",
+    "Application.MultilevelInheritanceExample.executor": "Run",
+    "Application.SingleInheritanceExample.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -112,66 +122,51 @@
       <option name="project" value="LOCAL" />
       <updated>1784694316812</updated>
     </task>
-    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <task id="LOCAL-00005" summary="Abstraction class implemented">
       <option name="closed" value="true" />
-      <created>1784712629670</created>
+      <created>1784698143422</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1784712629670</updated>
+      <updated>1784698143424</updated>
     </task>
-    <task id="LOCAL-00006" summary="implemented example of interface as payment methods">
+    <task id="LOCAL-00006" summary="Abstraction class implemented">
       <option name="closed" value="true" />
-      <created>1784712709743</created>
+      <created>1784698205614</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1784712709743</updated>
+      <updated>1784698205614</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="implemented example of interface as payment methods">
+      <option name="closed" value="true" />
+      <created>1784712375058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784712375059</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1784713951753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784713951753</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="5e57d91a-8f66-46aa-93c6-76158a387acd" value="TOOL_WINDOW" />
-      </map>
-    </option>
-    <option name="TAB_STATES">
-      <map>
-        <entry key="5e57d91a-8f66-46aa-93c6-76158a387acd">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="range">
-                    <value>
-                      <list>
-                        <option value="ee80800e65e5ccfc196cf9e647e6eca9121bf8da..54498a393edcba6a6c82bb5dbe259e45eed4721f" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Encapsulation example" />
     <MESSAGE value="Encapsulation Example" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Abstraction class implemented" />
     <MESSAGE value="implemented example of interface as payment methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented example of interface as payment methods" />
+    <MESSAGE value="delete Abstraction class because it is clone of abstract class example file" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
