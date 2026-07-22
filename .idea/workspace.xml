@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7cbd5ef-9575-49f3-996f-e419315a34b8" name="Changes" comment="Abstraction class implemented">
-      <change afterPath="$PROJECT_DIR$/src/InterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClassExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="f7cbd5ef-9575-49f3-996f-e419315a34b8" name="Changes" comment="implemented example of interface as payment methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +45,7 @@
   "keyToString": {
     "Application.AbstractionExample.executor": "Run",
     "Application.EncapsulationExample.executor": "Run",
+    "Application.InterfaceExample.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -129,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784698205614</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="implemented example of interface as payment methods">
+      <option name="closed" value="true" />
+      <created>1784712375058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784712375059</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +144,7 @@
     <MESSAGE value="Encapsulation example" />
     <MESSAGE value="Encapsulation Example" />
     <MESSAGE value="Abstraction class implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction class implemented" />
+    <MESSAGE value="implemented example of interface as payment methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented example of interface as payment methods" />
   </component>
 </project>
